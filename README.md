@@ -100,11 +100,11 @@ Publish the website in the given URL.
 ```
 
 ## SERVER SIDE PROCESSING:
+<img width="1272" height="770" alt="image" src="https://github.com/user-attachments/assets/9c66e0aa-ff92-4af5-a3cc-7905aeebaead" />
 
- ![alt text](<Screenshot 2025-10-24 142003.png>)
 
 ## HOMEPAGE:
-![alt text](<Screenshot 2025-10-24 141746.png>)
+<img width="1038" height="617" alt="image" src="https://github.com/user-attachments/assets/110b808a-ea07-4ca6-bb4d-7cbde0ee29ff" />
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
